@@ -2,13 +2,14 @@
 Machine Learning Lab
 
 # Topics
-* Lab1: Logistic Regression
-* Lab2: Support Vector Machine (SVM)
-* Lab3: Decision Tree and Random Forest
-* Lab4: K-Nearest Neighbour (KNN)
-* Lab5: Evaluation Metrics
-* Lab6: Sentiment Analysis
-
+* Lab-01: Logistic Regression
+* Lab-02: Support Vector Machine (SVM)
+* Lab-03: Decision Tree and Random Forest
+* Lab-04: K-Nearest Neighbour (KNN)
+* Lab-05: Evaluation Metrics
+* Lab-06: Sentiment Analysis
+* Lab-07: Linear Regression
+* Lab-08: K-means Clustering
 
 # Lab 05: Evaluation Metrics used in Machine Learning
 * Dataset: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
